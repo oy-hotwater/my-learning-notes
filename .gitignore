@@ -27,4 +27,3 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
-*.draft.md
