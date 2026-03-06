@@ -1,17 +1,19 @@
-# Quartz v4
+# My Learning Notes (学習ログ & ナレッジベース)
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+日々の技術学習、概念の理解、トラブルシューティングの過程を記録した、私個人のデジタルガーデンです。
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+🌐 **Live Site:** [https://oy-hotwater.github.io/my-learning-notes/](https://oy-hotwater.github.io/my-learning-notes/)
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+## 構築アーキテクチャ
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+「執筆の労力を最小化し、公開を全自動化する」ことを目的に、以下の構成で構築しました。
 
-## Sponsors
+- **執筆環境**: Obsidian (ローカルMarkdown)
+- **SSG (静的サイト生成)**: Quartz v4
+- **CI/CD**: GitHub Actions
+- **ホスティング**: GitHub Pages
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+## 運用ポリシー
+
+1. **プロセスを重視**: 単なるコードの切れ端ではなく、「なぜそう考えたか」「どこで詰まったか」という思考の軌跡を残す。
+2. **ネットワーク化**: 知識を階層（フォルダ）ではなく、双方向リンクで繋ぐことで、技術の全体像を俯瞰する。

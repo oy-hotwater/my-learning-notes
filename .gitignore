@@ -1,11 +1,30 @@
+# **\--- Quartz Default \---**
+
+node_modules
+.quartz-cache
+public
+
+# **\--- Obsidian Specific \---**
+
+.obsidian
+*.canvas
+*.base
+
+# **\--- 🚨 厳格な非公開設定（ここが重要） \---**
+# **以下のフォルダはローカルには存在しますが、GitHubには絶対に送りません。**
+
+/content/00_Inbox/
+/content/01_Private/
+assets/private/
+
+# **\--- 🚨 その他 \---**
+
 .DS_Store
 .gitignore
-node_modules
-public
 prof
 tsconfig.tsbuildinfo
-.obsidian
-.quartz-cache
+
 private/
 .replit
 replit.nix
+*.draft.md

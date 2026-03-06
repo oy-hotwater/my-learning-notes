@@ -1,0 +1,11 @@
+---
+aliases:
+  - VScode
+  - vscode
+  - VS Code
+  - ぶいえすこーど
+  - ブイエスコード
+  - Visual Studio Code
+  - ビジュアルスタジオ・コード
+  - Visual-Studio-Code
+---
