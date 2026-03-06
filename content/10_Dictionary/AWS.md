@@ -7,9 +7,11 @@ aliases:
 ---
 
 
-AWS（Amazon Web Services）は、Amazonが提供する世界シェアNo.1のクラウドコンピューティングサービス
+### AWS (Amazon Web Services)
 
-代表的な主要サービス
+世界で最も広く利用されているクラウドサービス群です。[[Amazon]]が培った[[インフラ]]技術を一般向けに提供しており、サーバーの立ち上げから最新のAI利用まで、幅広いIT基盤をインターネット越しに構築できます。
+
+代表的なサービス
 - [[Amazon-EC2]]
 - [[Amazon-S3]]
 - [[Amazon-RDS]]
