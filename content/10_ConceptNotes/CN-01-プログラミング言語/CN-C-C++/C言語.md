@@ -2,6 +2,7 @@
 aliases:
   - C Language
   - c-lang
+  - C
 ---
 ### 一言定義
 
