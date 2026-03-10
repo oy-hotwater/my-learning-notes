@@ -22,15 +22,15 @@
 
 This repository contains code derived from Quartz, which is licensed under the MIT License.
 
-However, the notes, writings, and other original content in this repository are not covered by the MIT License unless explicitly stated.
-All original notes, written content, and original images are © oy-hotwater and All Rights Reserved.
+Unless explicitly stated otherwise, the notes, writings, and original images in this repository are not covered by the MIT License.
+All original notes, written content, and original images are © oy-hotwater. All rights reserved.
 
-Unauthorized copying, redistribution, or reuse of the written content and original content is not permitted.
+Unauthorized copying, redistribution, or reuse of the original written content and original images is not permitted.
 
 このリポジトリには、MITライセンスの Quartz 由来コードが含まれます。
 
-ただし、このリポジトリ内のノート本文・文章・自作コンテンツ・自作画像は、明示しない限り MIT ライセンスの対象ではありません。
-オリジナルのノート、文章コンテンツ、画像の著作権は oy-hotwater に帰属し、無断転載・再配布・再利用を禁止します。
+ただし、明示しない限り、このリポジトリ内のノート本文・文章・自作画像は MIT ライセンスの対象ではありません。
+オリジナルのノート、文章コンテンツ、画像の著作権は oy-hotwater に帰属します。無断転載・再配布・再利用を禁止します。
 
 See also:
 
