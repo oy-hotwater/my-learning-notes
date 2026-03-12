@@ -25,3 +25,11 @@
 ```
 !pip install faiss-gpu-cu12  # CUDA 12系の場合
 ```
+
+## 爆速結果
+
+- 特徴抽出にかかる時間が30分弱→30秒弱
+![feature_extraction_results_sneaker_similar_image_search_ver2](feature_extraction_results_sneaker_similar_image_search_ver2.png)
+
+- 検索結果。6.03ミリ秒
+![search_results_sneaker_similar_image_search_ver2](search_results_sneaker_similar_image_search_ver2.png)
