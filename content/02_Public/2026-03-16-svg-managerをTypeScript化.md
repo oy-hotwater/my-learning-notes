@@ -1,0 +1,2 @@
+- [Gemini](Gemini.md)に[[JavaScript]]にする理由がないと指摘され、[[TypeScript]]へ変更
+- [[svg-manager]]
