@@ -3,6 +3,10 @@ aliases:
   - claude
   - クロード
 ---
+- [Mermaid](Mermaid.md)を作った後すぐに描写できるシステムがあるっぽい？
+	- [[Artifacts]]
+- [[Claude-Cord]]
+
 ## Claude
 
 ### 概要
